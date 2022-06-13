@@ -1,0 +1,5 @@
+{
+  "type": "ve:ore_generation",
+  "biomes": "#is_overworld",
+  "feature": "ve:uranium_ore_placed"
+}

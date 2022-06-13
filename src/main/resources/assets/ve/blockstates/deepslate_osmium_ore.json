@@ -1,0 +1,5 @@
+{
+  "variants" : {
+    "" : { "model": "ve:block/deepslate_osmium_ore"}
+  }
+}

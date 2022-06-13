@@ -1,0 +1,5 @@
+{
+  "type": "ve:ore_generation",
+  "biomes": "#is_overworld",
+  "feature": "ve:osmium_ore_placed"
+}

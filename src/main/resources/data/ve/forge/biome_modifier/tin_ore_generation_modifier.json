@@ -1,0 +1,5 @@
+{
+  "type": "ve:ore_generation",
+  "biomes": "#is_overworld",
+  "feature": "ve:tin_ore_placed"
+}

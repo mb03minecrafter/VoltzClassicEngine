@@ -1,0 +1,16 @@
+{
+  "item.ve.raw_uranium" : "Raw Uranium",
+  "item.ve.raw_tin" : "Raw Tin",
+  "item.ve.tin_ingot" : "Tin Ingot",
+  "item.ve.raw_osmium" : "Raw Osmium",
+  "item.ve.osmium_ingot" : "Osmium Ingot",
+  "item.ve.sulfur" : "Sulfur",
+
+  "block.ve.deepslate_osmium_ore": "Deepslate Osmium Ore",
+  "block.ve.osmium_ore": "Osmium Ore",
+  "block.ve.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.ve.tin_ore": "Tin Ore",
+  "block.ve.deepslate_sulfur_ore": "Deepslate Sulfur Ore",
+  "block.ve.sulfur_ore": "Sulfur Ore",
+  "block.ve.deepslate_uranium_ore": "Deepslate Uranium Ore"
+}
